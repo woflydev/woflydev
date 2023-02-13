@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm woflydev</h1>
-<h3 align="center">I make games (and other stuff lol)</h3>
+<h3 align="center">avid starter of new projects then abandoning them in the first week or so</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woflydev&label=Profile%20views&color=0e75b6&style=flat" alt="woflydev" /> </p>
 
