@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **wandering wind, a singleplayer procedurally generated exploration game :)**
+- 🔭 I’m currently working on **project odyssey's CNN model to allow for fully autonomous driving and object detection!**
 
-- 🌱 I’m currently learning **unity's shader system**
+- 🌱 I’m currently learning about **tensorflow, back propagation, and calculus for neural networks ._.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
